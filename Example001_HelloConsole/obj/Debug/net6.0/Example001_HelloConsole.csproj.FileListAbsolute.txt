@@ -1,0 +1,15 @@
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\Практика , Лексции\Programirowanie _1\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
